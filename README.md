@@ -1,5 +1,8 @@
 # rest-with-spring-boot-and-java-erudio
 
+# VO (Value Object)
+A classe RepresentationModel permite a implementação do HATEOAS
+
 # Pacote br.com.erudio.exception
 ExceptionResponse: contém os dados que serão retornados quando houver uma exceção na aplicação
 UnsupportedMathOperationException: retorna erro 400 para uma má requisição
